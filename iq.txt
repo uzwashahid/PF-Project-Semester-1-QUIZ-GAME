@@ -1,0 +1,426 @@
+1
+If 2 + 2 = 4, then 4 + 4 = ?
+6
+7
+8
+9
+C
+1
+Which number comes next? 1, 3, 5, 7, __
+9
+8
+10
+6
+A
+1
+If all roses are flowers, and this is a rose, then it is a:
+Tree
+Flower
+Fruit
+Leaf
+B
+1
+Which shape has three sides?
+Square
+Circle
+Triangle
+Rectangle
+C
+1
+Which number is the smallest?
+9
+5
+2
+7
+C
+1
+Ali is taller than Ahmed, Ahmed is taller than Bilal. Who is shortest?
+Ali
+Ahmed
+Bilal
+All equal
+C
+1
+What is the opposite of “up”?
+Side
+Down
+Under
+Right
+B
+1
+Which number comes before 20?
+21
+19
+18
+22
+B
+1
+Which doesn't belong to the group? Cat, Dog, Cow, Car
+Cat
+Dog
+Car
+Cow
+C
+1
+If 5 apples cost 5 rupees, 1 apple costs:
+5
+1
+2
+3
+B
+1
+Which is the odd one out? Red, Blue, Green, Banana
+Red
+Blue
+Green
+Banana
+D
+1
+A week has how many days?
+5
+6
+7
+8
+C
+1
+If today is Monday, tomorrow will be:
+Friday
+Wednesday
+Sunday
+Tuesday
+D
+1
+Circle is:
+Round
+Square
+Triangle
+Straight
+A
+1
+If a clock shows 3:00, the minute hand is at:
+12
+3
+6
+9
+A
+1
+Which number is even?
+3
+5
+7
+8
+D
+1
+Which animal barks?
+Cat
+Dog
+Cow
+Goat
+B
+1
+Opposite of “hot” is:
+Warm
+cold
+heat
+fire
+B
+1
+What comes next? A, B, C, D, __
+E
+G
+F
+Z
+A
+1
+Which number is greater?
+14
+41
+24
+11
+B
+2
+What is next? 2, 4, 8, 16, __
+30
+24
+32
+20
+C
+2
+Which is the odd one? Pen, Pencil, Eraser, Bottle
+Pen
+Bottle
+Eraser
+Pencil
+B
+2
+15 – x = 10, x = ?
+3
+5
+7
+10
+B
+2
+A train leaves at 5 PM and arrives at 8 PM. Total travel time?
+5 hours
+2 hours
+3 hours
+4 hours
+C
+2
+What number completes? 5, 10, 20, 40, __
+45
+60
+80
+100
+C
+2
+If a > b and b > c, then:
+a < c
+a > c
+a = c
+c > a
+B
+2
+Which direction is opposite East?
+North
+West
+South
+North-East
+B
+2
+If 3x = 21, x = ?
+3
+5
+7
+9
+C
+2
+What is next? 11, 13, 17, 19, __
+21
+23
+20
+18
+B
+2
+Which one is a cube?
+Dice
+Ball
+Circle
+Rectangle
+A
+2
+Which is the odd one out? April, June, Wednesday, May
+April
+June
+Wednesday
+May
+C
+2
+What is 25% of 80?
+20
+15
+25
+40
+A
+2
+Ali is 10 years old. His father is 30 years older. Father’s age?
+30
+40
+50
+60
+C
+2
+What comes next? 100, 90, 80, 70, __
+69
+65
+60
+75
+C
+2
+If Z = 26, then B = ?
+1
+2
+3
+4
+B
+2
+Which number is a multiple of 9?
+27
+25
+13
+18
+A
+2
+If a triangle has 3 sides, a square has:
+2
+4
+5
+6
+B
+2
+If 8 × 8 = 64, then 9 × 9 =
+81
+72
+90
+99
+A
+2
+Which is heavier?
+1 kg iron
+1 kg cotton
+Both equal
+Cotton
+C
+2
+Which symbol completes: 15 __ 14 (greater)
+<
+>
+=
+≠
+B
+3
+What is next? 3, 7, 15, 31, 63, __
+95
+120
+127
+126
+C
+3
+If 2 brothers have 2 sisters, total children?
+2
+3
+4
+5
+C
+3
+If A = 1, B = 2… Z = 26, what is 3 + 1 + 20?
+20
+22
+24
+25
+C 
+3
+A clock shows 2:20. The angle between hour and minute hand?
+40°
+50°
+60°
+70°
+A
+3
+A car travels 60 km in 1 hour. Distance in 3 hours?
+120 km
+180 km
+200 km
+150 km
+B
+3
+What is the missing number?  
+6 → 36  
+7 → 49  
+8 → ?
+62
+64
+72
+88
+B
+3
+Which is the odd one: 2, 4, 6, 9, 10
+2
+4
+9
+10
+C
+3
+If the opposite of "truth" is "lie", the opposite of "victory" is:
+Win
+Fight
+Loss
+Glory
+C
+3
+A cube has how many edges?
+10
+12
+14
+16
+B
+3
+If the pattern is doubled each time: 2, 4, 8, 16, 32, __
+48
+50
+64
+60
+C
+3
+Which number comes next? 1, 4, 9, 16, 25, __
+30
+36
+49
+64
+B
+3
+If A travels 30 km in 2 hours, speed?
+10
+15
+20
+25
+B
+3
+Which direction is between South and East?
+South-East
+North-East
+South-West
+North-West
+A
+3
+If 5 persons shake hands with each other once, total handshakes?
+10
+12
+15
+20
+C
+3
+If 4x = 48, x =
+8
+10
+12
+14
+A
+3
+Which is the odd one: Circle, Square, Triangle, Cube
+Circle
+Square
+Triangle
+Cube
+D
+3
+Ratio of 2:4 simplified?
+1:3
+1:2
+1:1
+2:3
+B
+3
+If today is Friday, what day will it be after 15 days?
+Monday
+Tuesday
+Sunday
+Wednesday
+A
+3
+What is the next prime number after 43?
+45
+47
+49
+51
+B
+3
+Find the missing number:  
+12 → 6  
+18 → 9  
+24 → ?
+10
+12
+14
+8
+B

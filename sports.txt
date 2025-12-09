@@ -1,0 +1,420 @@
+1
+How many players are there in a cricket team?
+9
+10
+11
+12
+C
+1
+Which sport uses a bat and ball?
+Football
+Cricket
+Hockey
+Basketball
+B
+1
+Football is played with a:
+Bat
+Racket
+Ball
+Stick
+C
+1
+How many wickets are there in cricket?
+3
+6
+9
+12
+A
+1
+Which sport is played on a court with a net?
+Tennis
+Hockey
+Cricket
+Golf
+A
+1
+How many minutes are in a football match (full time)?
+60
+80
+90
+100
+C
+1
+Which sport uses a hoop?
+Volleyball
+Cricket
+Basketball
+Hockey
+C
+1
+What is hit in badminton?
+Ball
+Shuttlecock
+Puck
+Disc
+B
+1
+How many players in a basketball team on court?
+4
+5
+6
+7
+B
+1
+What is the shape of a football?
+Round
+Square
+Triangle
+Flat
+A
+1
+The Olympics are held every:
+2 years
+3 years
+4 years
+5 years
+C
+1
+Which sport uses wickets?
+Football
+Tennis
+Cricket
+Volleyball
+C
+1
+Which sport uses gloves and punching?
+Boxing
+Karate
+Football
+Swimming
+A
+1
+What surface is used for ice skating?
+Grass
+Ice
+Wood
+Mud
+B
+1
+Which sport uses a stick?
+Cricket
+Hockey
+Tennis
+Basketball
+B
+1
+The FIFA World Cup is for which sport?
+Cricket
+Football
+Hockey
+Tennis
+B
+1
+Which sport uses a table and small paddles?
+Table tennis
+Badminton
+Basketball
+Boxing
+A
+1
+How many sets to win a tennis match (men’s)?
+1
+2
+3
+5
+D
+1
+In cricket, who throws the ball?
+Keeper
+Batsman
+Bowler
+Fielder
+C
+1
+What is the national sport of Pakistan?
+Football
+Hockey
+Cricket
+Polo
+B
+2
+How many overs in a T20 cricket match per side?
+10
+20
+30
+15
+B
+2
+The term “birdie” is used in:
+Golf
+Hockey
+Football
+Tennis
+A
+2
+How many rings are in the Olympic logo?
+4
+5
+6
+7
+B
+2
+How long is a marathon race?
+10 km
+21 km
+42 km
+50 km
+C
+2
+LBW stands for:
+Left Ball Wide
+Leg Before Wicket
+Long Ball Win
+Leg Behind Wicket
+B
+2
+Which country created karate?
+China
+Japan
+Korea
+Thailand
+B
+2
+What is the length of a football match including half-time break?
+90 minutes
+100 minutes
+105 minutes
+120 minutes
+C
+2
+Who is positioned behind the wicket in cricket?
+Bowler
+Umpire
+Wicketkeeper
+Fielder
+C
+2
+Yellow card is given in:
+Cricket
+Table tennis
+Football
+Baseball
+C
+2
+Which sport is also called “the gentleman’s game”?
+Football
+Basketball
+Cricket
+Tennis
+C
+2
+What is the maximum score on a single ball in cricket without overthrows?
+4
+6
+5
+3
+B
+2
+How many players in a hockey team?
+10
+11
+9
+8
+B
+2
+Which sport uses a "puck"?
+Golf
+Ice hockey
+Volleyball
+Rugby
+B
+2
+Which country hosts Wimbledon?
+USA
+France
+Australia
+England
+D
+2
+In football, what is a “hat-trick”?
+3 goals by team
+3 goals by one player
+3 assists
+3 fouls
+B
+2
+What is the shape of a cricket pitch?
+Circle
+Square
+Rectangular
+Oval
+C
+2
+Which country invented football?
+Germany
+Brazil
+England
+Argentina
+C
+2
+The term “knockout” is used in:
+Swimming
+Boxing
+Golf
+Badminton
+B
+2
+A century in cricket means:
+50 runs
+75 runs
+100 runs
+150 runs
+C
+2
+A football match has how many halves?
+2
+3
+4
+1
+A
+3
+Height of a basketball hoop from the ground?
+9 feet
+10 feet
+11 feet
+12 feet
+B
+3
+What is the length of a cricket pitch?
+18 yards
+20 yards
+22 yards
+24 yards
+C
+3
+In chess, the most powerful piece is:
+King
+Bishop
+Queen
+Rook
+C
+3
+A perfect score in bowling is:
+200
+250
+300
+350
+C
+3
+Which country has won the most FIFA World Cups?
+Germany
+Argentina
+Brazil
+Italy
+C
+3
+Which tennis tournament is played on clay?
+Wimbledon
+US Open
+French Open
+Australian Open
+C
+3
+How many players in a rugby team (union)?
+13
+14
+15
+16
+C
+3
+Length of a standard football field?
+60–80 m
+80–110 m
+110–130 m
+150–180 m
+B
+3
+In cricket, fastest recorded ball speed is around:
+159 km/h
+160 km/h
+161 km/h
+159 km/h
+C
+3
+Which country hosted first modern Olympics (1896)?
+USA
+France
+Greece
+Italy
+C
+3
+Maximum number of players a football team can substitute in modern rules?
+2
+3
+5
+7
+C
+3
+In Formula 1, DRS stands for:
+Driving Reduction Speed
+Drag Reduction System
+Drive Range System
+Drift Reaction System
+B
+3
+Distance of an Olympic swimming pool?
+25m
+30m
+50m
+100m
+C
+3
+A cricket over has how many balls?
+4
+5
+6
+8
+C
+3
+A standard chessboard has how many squares?
+48
+56
+64
+72
+C
+3
+What is the weight of a cricket ball ?
+120–130g
+135–145g
+155–165g
+185–195g
+C
+3
+In basketball, how many points is a free throw worth?
+3
+2
+1
+0
+C
+3
+The Ashes series is played between:
+India & Pakistan
+Australia & England
+South Africa & New Zealand
+Sri Lanka & Bangladesh
+B
+3
+Term “Grand Slam” is related to:
+Cricket
+Tennis
+Boxing
+Hockey
+B
+3
+In football, VAR stands for:
+Video Assistant Referee
+Virtual Action Replay
+Video Analysis Record
+Visual Area Review
+A        

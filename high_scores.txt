@@ -1,0 +1,13 @@
+Hashim 60 3
+Ali 98 1
+Hashim 120 1
+hassan 120 1
+Nagi 120 3
+nnnn 43 2
+hhhhhhhhh 86 1
+ 0 1
+Saad 45 3
+saad 57 1
+Saad|108|1
+Hashim|120|1
+Uzwa|20|1
